@@ -1,0 +1,29 @@
+.bg-color-bir {
+background-color: rgba(228, 225, 225, 0.918);
+width: 1480px;
+}
+.box1{
+    background-color: rgb(85, 241, 241);;
+    width: 30%;
+    height: 60px;
+    float: left;
+    padding: 10px;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+.box2{
+    background-color: rgb(76, 179, 179);;
+    width: 20%;
+    height: 80px;
+    float: left;
+    margin-top: 2px;
+    margin-right: 2px;
+
+}
+.box3{
+    background-color: rgb(36, 150, 150);
+width: 40%;
+height: 80px;
+float: left;
+margin-top: 2px;
+}
